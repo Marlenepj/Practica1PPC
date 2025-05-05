@@ -1,2 +1,2 @@
 # Practica1PPC
-concurrencia y paralelismo
+Simulación de sistema hospitalario automatizado con paradigmas concurrente, paralelo y asíncrono.
